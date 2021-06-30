@@ -1,7 +1,7 @@
 ---
 header_brand: "color33"
 header_logo: "images/color33_logo_light_bg.png"
-header_tagline_paragraph: "Provides stable, spectral categories for multi-spectral Earth observation imagery analysis and applications. Automatically transforms imagery from multiple sensors into transferable, actionable, stable spectral categories in near-real-time. We give you a color alphabet, you build the vocabulary."
+header_tagline_paragraph: "Provides stable, spectral categories for multi-spectral Earth observation imagery analysis and applications. Automatically transforms imagery from multiple sensors into transferable, actionable spectral categories in near-real-time. We give you stable color alphabet, you build the vocabulary."
 header_button_cta:
   url: "mailto:info@color33.io"
   title: "Get in touch"
@@ -27,8 +27,8 @@ Sound interesting? Get [in touch](mailto:info@color33.io)!
 
 color33 is an online processing service accessible via a web-frontend or API that can fit into the processes and workflows you may already use. The resulting spectral categories can:
 
-- be used to automate bi-temporal change detection
-- be used to automate the calculation of normalised occurrence of spectrally similar observations over time
+- automate bi-temporal change detection
+- automate the calculation of normalised occurrence of spectrally similar observations over time
 - stratify images, so that algorithms only consider pixels that are similar in a multi-spectral space rather than processing entire images
 - stratify training sample collection for machine-learning algorithms to ensure that your samples represent features of interest across the multi-spectral feature space they inhabit
 - validate reflectance values from newly developed calibration or correction routines
