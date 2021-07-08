@@ -53,7 +53,7 @@ Interested in learning more? We appreciate your feedback at this early stage of 
 
 Let's keep it simple. A friendly contact point:
 
-Dirk Tiede
+Hannah Augustin
 University of Salzburg, Department of Geoinformatics – Z_GIS
 Schillerstrasse 30
 5020 Salzburg
