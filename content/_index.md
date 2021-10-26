@@ -34,11 +34,22 @@ color33 is an online processing service accessible via a web-frontend or API tha
 - validate reflectance values from newly developed calibration or correction routines
 - help you explore the spectral characteristics, spatio-temporal dynamics and heterogeneity of imagery content prior to application-specific analysis
 
+
+## How can you use the colors?
+
+Let's look at all Sentinel-2 imagery spanning from 9 August 2019 until 24 June 2020. Processed with color33, a few of these individual images look like the following:
+
 ![Turn images into actionable spectral categories.](/images/workflow_basis.png)
+
+Instead of being faced with a bunch of relfectance values, you can start working directly with each pixel based on the color it has been assigned, which has a semantic association:
 
 ![Water-like colors](/images/water_count.png)
 
 ![Vegetation-like colors](/images/vegetation_count.png)
+
+However, while the colors (i.e. spectral categories) are actionable, generally there is no perfect and exclusive match between a semantic concept (e.g. water) and any of the colors. For more advanced analysis, users can use the color categories to segment or stratefy further analyses. For example, instead of calculating the NDVI across an entire image, only calculate the index on pixels that look like vegetation based on their color to remove or minimise the need for thresholding to extract meaningful information about vegetation.
+
+
 
 ---
 
