@@ -47,9 +47,9 @@ Instead of being faced with a bunch of relfectance values, you can start working
 
 ![Vegetation-like colors](/images/vegetation_count.png)
 
-However, while the colors (i.e. spectral categories) are actionable, generally there is no perfect and exclusive match between a semantic concept (e.g. water) and any of the colors. For more advanced analysis, users can use the color categories to segment or stratefy further analyses. For example, instead of calculating the NDVI across an entire image, only calculate the index on pixels that look like vegetation based on their color to remove or minimise the need for thresholding to extract meaningful information about vegetation.
+However, while the colors (i.e. spectral categories) are actionable, generally there is no perfect and exclusive match between a semantic concept (e.g. water) and any of the colors. As with any other imagery analysis, some pixels representing different semantic concepts (e.g. water and deep shadow) have very similar multi-spectral profiles, so require additional information to be reliably distinguished from each other in analysis. For more advanced analysis, users can use the color categories to segment or stratify further analyses. For example, instead of calculating the NDVI across an entire image to then identify vegetation, the colors enable users to only calculate the index on pixels that look like vegetation based on their color to remove or minimise the need for thresholding to extract meaningful information about vegetation.
 
-
+![NDVI for vegetation-like colors only](/images/ndvi_green.png)
 
 ---
 
