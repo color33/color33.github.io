@@ -36,6 +36,10 @@ color33 is an online processing service accessible via a web-frontend or API tha
 
 ![Turn images into actionable spectral categories.](/images/workflow_basis.png)
 
+![Water-like colors](/images/water_count.png)
+
+![Vegetation-like colors](/images/vegetation_count.png)
+
 ---
 
 # Are you an app developer?
