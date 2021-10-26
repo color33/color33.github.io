@@ -34,7 +34,7 @@ color33 is an online processing service accessible via a web-frontend or API tha
 - validate reflectance values from newly developed calibration or correction routines
 - help you explore the spectral characteristics, spatio-temporal dynamics and heterogeneity of imagery content prior to application-specific analysis
 
-<img src="images/workflow_basis.png">
+![Turn images into actionable spectral categories.](/images/workflow_basis.png)
 
 ---
 
